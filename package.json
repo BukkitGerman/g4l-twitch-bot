@@ -1,0 +1,24 @@
+{
+  "name": "g4l-twitch-bot",
+  "version": "1.0.0",
+  "description": "A twichbot",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BukkitGerman/g4l-twitch-bot.git"
+  },
+  "keywords": [
+    "twitch",
+    "bot",
+    "api"
+  ],
+  "author": "BukkitGerman (Justin Preuß)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BukkitGerman/g4l-twitch-bot/issues"
+  },
+  "homepage": "https://github.com/BukkitGerman/g4l-twitch-bot#readme"
+}
