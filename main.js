@@ -2,4 +2,5 @@
 // Author: BukkitGerman  //
 ///////////////////////////
 
-console.log("test");
+console.log("Author: BukkitGerman\t/\tJustin Preuß");
+
