@@ -2,5 +2,6 @@
 // Author: BukkitGerman  //
 ///////////////////////////
 
-console.log("Author: BukkitGerman\t/\tJustin Preuß");
-
+initialize = () => {
+    console.log("Author: BukkitGerman\t/\tJustin Preuß");       
+}
