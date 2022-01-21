@@ -6,6 +6,7 @@ initialize = () => {
 
     // Author Message
     console.log("Author: BukkitGerman\t/\tJustin Preuß");       
-
+    
+    //TODO env
 
 }
