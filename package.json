@@ -2,9 +2,11 @@
   "name": "g4l-twitch-bot",
   "version": "1.0.0",
   "description": "A twichbot",
-  "main": "src/main.js",
+  "main": "build/main.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "compile": "npx tsc",
+    "watch": "npx tsc --watch"
   },
   "repository": {
     "type": "git",
