@@ -2,7 +2,7 @@
   "name": "g4l-twitch-bot",
   "version": "1.0.0",
   "description": "A twichbot",
-  "main": "main.js",
+  "main": "src/main.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -20,5 +20,9 @@
   "bugs": {
     "url": "https://github.com/BukkitGerman/g4l-twitch-bot/issues"
   },
-  "homepage": "https://github.com/BukkitGerman/g4l-twitch-bot#readme"
+  "homepage": "https://github.com/BukkitGerman/g4l-twitch-bot#readme",
+  "devDependencies": {
+    "@types/node": "^17.0.14",
+    "typescript": "^4.5.5"
+  }
 }
