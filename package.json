@@ -5,8 +5,9 @@
   "main": "build/app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "compile": "npx tsc",
-    "watch": "npx tsc --watch"
+    "build": "tsc --build",
+    "clean": "tsc --build --clean",
+    "watch": "tsc --watch"
   },
   "repository": {
     "type": "git",
