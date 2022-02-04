@@ -2,7 +2,6 @@
 // Author: BukkitGerman  //
 ///////////////////////////
 
-
 class app {
     constructor() {
         console.log(this.build_init_screen());
