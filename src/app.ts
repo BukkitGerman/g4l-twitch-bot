@@ -7,7 +7,6 @@ import { BootServiceProvider } from './ServiceProvider/BootServiceProvider';
 class app {
     constructor() {
         const bsp = new BootServiceProvider();
-        bsp.printBootScreen();
         TestCommand.run()
          /*
             TODO: 
