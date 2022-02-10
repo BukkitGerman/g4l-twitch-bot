@@ -2,9 +2,13 @@
 // Author: BukkitGerman  //
 ///////////////////////////
 
+import { TestCommand } from './Commands/TestCommand';
+import { BootServiceProvider } from './ServiceProvider/BootServiceProvider';
 class app {
     constructor() {
         console.log(this.build_init_screen());
+        new BootServiceProvider();
+        TestCommand.run()
          /*
             TODO: 
                 - add env
