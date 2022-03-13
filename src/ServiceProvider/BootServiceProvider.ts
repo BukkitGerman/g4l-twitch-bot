@@ -1,6 +1,5 @@
 import { readdir } from "fs";
 
-const prompt = require('prompt');
 
 export class BootServiceProvider {
     constructor(){
